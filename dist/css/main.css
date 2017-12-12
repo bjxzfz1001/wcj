@@ -214,6 +214,9 @@ font-size: 13vw;
     left: 7%;
     font-size: 4vw;
 }
+.swiper-slide .two .two-box .two-main #two-main-p{
+     font-size: 5vw;
+}
 .swiper-slide .two .two-box .two-bottom{
     position: relative;
     top: 1%;
